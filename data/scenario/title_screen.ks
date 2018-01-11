@@ -1,11 +1,12 @@
 [_tb_system_call storage=system/_title_screen.ks]
 
+[cm  ]
+*title
+
 [hidemenubutton]
 
 [tb_keyconfig  flag="0"  ]
 [tb_hide_message_window  ]
-*title
-
 [bg  storage="☆地球平和の111☆.gif"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="ポップスハート.ogg"  ]
 [glink  text="はじめから"  x="131"  y="405"  target="*start"  color="orange"  width="131"  height="26"  _clickable_img=""  size="25"  ]

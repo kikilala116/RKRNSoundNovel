@@ -63,5 +63,8 @@
 
 [tb_image_hide  time="1000"  ]
 [tb_hide_message_window  ]
+[stopse  time="1000"  buf="0"  ]
+[stopbgm  time="1000"  ]
+[free_layermode  time="1000"  wait="false"  ]
 [jump  storage="title_screen.ks"  target="*title"  ]
 [s  ]
