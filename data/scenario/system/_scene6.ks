@@ -1,0 +1,7 @@
+[preload  storage="./data/bgimage/森の音楽.png"  ]
+[preload  storage="./data/fgimage/default/へむへむ1.png"  ]
+[preload  storage="./data/fgimage/default/へむへむ2.png"  ]
+[preload  storage="./data/bgimage/忍術学園いおり.png"  ]
+[preload  storage="./data/fgimage/default/ヘムヘム心の目覚め.png"  ]
+[preload  storage="./data/fgimage/default/ヘムヘム心の目覚め1.png"  ]
+[return]
