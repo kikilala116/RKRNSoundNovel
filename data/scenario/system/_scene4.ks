@@ -1,7 +1,0 @@
-[preload  storage="./data/bgimage/☆平和の樹☆.png"  ]
-[preload  storage="./data/fgimage/default/3.png"  ]
-[preload  storage="./data/fgimage/default/へむへむ＆学園長三年生.png"  ]
-[preload  storage="./data/bgimage/☆平和の虹☆.png"  ]
-[preload  storage="./data/fgimage/default/2.png"  ]
-[preload  storage="./data/fgimage/default/へむへむ＆学園長二年生.png"  ]
-[return]
