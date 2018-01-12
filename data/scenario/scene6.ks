@@ -66,5 +66,5 @@
 [stopse  time="1000"  buf="0"  ]
 [stopbgm  time="1000"  ]
 [free_layermode  time="1000"  wait="false"  ]
-[jump  storage="title_screen.ks"  target="*title"  ]
+[jump  storage="scene1.ks"  target="*0"  ]
 [s  ]

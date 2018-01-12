@@ -28,7 +28,7 @@
 [tb_image_show  time="1000"  storage="default/へむへむ＆学園長三年生.png"  width="854"  height="480"  x="-4"  y="-64"  _clickable_img=""  name="img_21"  ]
 [tb_start_text mode=1 ]
 #学園長先生
-忍たま三年生のテーマは[font color="green"]樹[resetfont]。[l]曲名は「大きな栗の木の下で」じゃ！[l][r]樹は[font color="white"]不動心・永遠[resetfont]を表しているんじゃよ！[p]
+忍たま三年生のテーマは[font color="forestgreen"]樹[resetfont]。[l]曲名は「大きな栗の木の下で」じゃ！[l][r]樹は[font color="yellow"]不動心・永遠[resetfont]を表しているんじゃよ！[p]
 #
 [_tb_end_text]
 
@@ -60,7 +60,7 @@
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
 #学園長先生
-忍たま二年生のテーマは[font color="blue"]虹[resetfont]。[l]曲名は「あの青い空のように」じゃ！[l][r]虹は[font color="white"]心の絆[resetfont]を表しているんじゃよ！[p]
+忍たま二年生のテーマは[font color="blue"]虹[resetfont]。[l]曲名は「あの青い空のように」じゃ！[l][r]虹は[font color="yellow"]心の絆[resetfont]を表しているんじゃよ！[p]
 #
 [_tb_end_text]
 

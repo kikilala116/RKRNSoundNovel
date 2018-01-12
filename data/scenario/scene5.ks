@@ -37,7 +37,7 @@
 [tb_image_show  time="1000"  storage="default/へむへむ＆学園長一年生.png"  width="854"  height="480"  x="-6"  y="-66"  _clickable_img=""  name="img_30"  ]
 [tb_start_text mode=1 ]
 #学園長先生
-忍たま一年生のテーマは[font color="blue"]地球[resetfont]。[l]曲名は「僕たち地球人」じゃ！[l][r]地球は[font color="white"]友情[resetfont]を表しているんじゃよ！[p]
+忍たま一年生のテーマは[font color="deepskyblue"]地球[resetfont]。[l]曲名は「僕たち地球人」じゃ！[l][r]地球は[font color="yellow"]友情[resetfont]を表しているんじゃよ！[p]
 #
 [_tb_end_text]
 
@@ -67,13 +67,13 @@
 [tb_image_show  time="1000"  storage="default/へむへむ＆学園長くのいち.png"  width="854"  height="480"  x="-7"  y="-67"  _clickable_img=""  ]
 [tb_start_text mode=1 ]
 #学園長先生
-忍たまくノ一のテーマは[font color="red"]花[resetfont]。[l]曲名は「花は咲く」じゃ！[l][r]花は[font color="white"]平和[resetfont]を表しているんじゃよ！[l][cm][p]
+忍たまくノ一のテーマは[font color="fuchsia"]花[resetfont]。[l]曲名は「花は咲く」じゃ！[l][r]花は[font color="yellow"]平和[resetfont]を表しているんじゃ！[l][cm][p]
 
 [_tb_end_text]
 
 [tb_start_text mode=4 ]
 #学園長先生
-ヘムヘム！[l]歌には、皆の心の祈りが込められているんじゃよ。[l][r]皆が歌に灯したテーマの意味は――[l][cm]「[font color="white"]心[resetfont]の[font color="white"]光[resetfont]に[font color="white"]希望[resetfont]を照らし、[l][font color="white"]永遠の絆[resetfont]で、[l][font color="white"]地球の友[resetfont]と[l][font color="white"]平和[resetfont]の歌を[r]奏でよう」[l]というメッセージなのじゃ！[l][cm]
+ヘムヘム！[l]歌には、皆の心の祈りが込められているんじゃよ。[l][r]皆が歌に灯したテーマの意味は――[l][cm]「[font color="yellow"]心[resetfont]の[font color="yellow"]光[resetfont]に[font color="yellow"]希望[resetfont]を照らし、[l][font color="yellow"]永遠の絆[resetfont]で、[l][font color="yellow"]地球の友[resetfont]と[l][font color="yellow"]平和[resetfont]の歌を[r]奏でよう」[l]というメッセージなのじゃ！[l][cm]
 [_tb_end_text]
 
 [tb_hide_message_window  ]

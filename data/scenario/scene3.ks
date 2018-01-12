@@ -39,7 +39,7 @@
 [tb_image_show  time="1000"  storage="default/へむへむ＆学園長六年生.png"  width="854"  height="480"  x="0"  y="-62"  _clickable_img=""  name="img_27"  ]
 [tb_start_text mode=1 ]
 #学園長先生
-忍たま六年生のテーマは[font color="red"]太陽[resetfont]。[l]曲名は「手のひらを太陽に」じゃ！[l][r]太陽は[font color="white"]心[resetfont]を表しているんじゃよ！[p]
+忍たま六年生のテーマは[font color="red"]太陽[resetfont]。[l]曲名は「手のひらを太陽に」じゃ！[l][r]太陽は[font color="yellow"]心[resetfont]を表しているんじゃよ！[p]
 #
 [_tb_end_text]
 
@@ -70,7 +70,7 @@
 [tb_image_show  time="1000"  storage="default/へむへむ＆学園長五年生.png"  width="854"  height="480"  x="-2"  y="-64"  _clickable_img=""  name="img_50"  ]
 [tb_start_text mode=1 ]
 #学園長先生
-忍たま五年生のテーマは[font color="blue"]月[resetfont]。[l]曲名は「月」じゃ！[l][r]月は[font color="white"]光[resetfont]を表しているんじゃよ！[p]
+忍たま五年生のテーマは[font color="blue"]月[resetfont]。[l]曲名は「月」じゃ！[l][r]月は[font color="yellow"]光[resetfont]を表しているんじゃよ！[p]
 #
 [_tb_end_text]
 
@@ -101,7 +101,7 @@
 [tb_image_show  time="1000"  storage="default/へむへむ＆学園長四年生.png"  width="854"  height="480"  x="-2"  y="-64"  _clickable_img=""  name="img_48"  ]
 [tb_start_text mode=1 ]
 #学園長先生
-忍たま四年生のテーマは[font color="fuchsia"]星[resetfont]。[l]曲名は「星に願いを」じゃ！[l][r]星は[font color="white"]希望[resetfont]を表しているんじゃよ！[p]
+忍たま四年生のテーマは[font color="fuchsia"]星[resetfont]。[l]曲名は「星に願いを」じゃ！[l][r]星は[font color="yellow"]希望[resetfont]を表しているんじゃよ！[p]
 #
 [_tb_end_text]
 

@@ -1,8 +1,17 @@
 [_tb_system_call storage=system/_scene1.ks]
 
 [cm  ]
+*0
+
+[playbgm  volume="100"  time="1000"  loop="true"  storage="☆花は咲く☆.ogg"  ]
+[bg  time="1000"  method="crossfade"  storage="☆地球平和の111☆.gif"  ]
+[tb_ptext_show  x="140"  y="9"  size="66"  color="0x13bd2f"  time="556"  face="yamafont"  text="ヘムヘム心の平和歌"  anim="false"  edge="0xfafa0a"  shadow="undefined"  ]
+[glink  color="pink"  storage="scene1.ks"  size="40"  target="*1"  text="平和物語を読む"  x="-16"  y="332"  width="719"  height="45"  _clickable_img=""  ]
+[s  ]
 *1
 
+[tb_ptext_hide  time="1000"  ]
+[stopbgm  time="1000"  ]
 [bg  time="1000"  method="crossfade"  storage="忍術学園いおり.png"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="ほのぼの日常トイピアノ.ogg"  ]
 [chara_show  name="学園長先生"  time="500"  wait="true"  left="33"  top="-24"  width=""  height=""  reflect="false"  ]
